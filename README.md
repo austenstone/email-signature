@@ -25,12 +25,12 @@ View a [preview](https://htmlpreview.github.io/?https://github.com/austenstone/e
             <div style="white-space:nowrap;margin-top: 8px">
                 <a style="white-space:nowrap;display:inline-block;" href="https://github.com/austenstone"
                     target="_blank">
-                    <img style="white-space:nowrap;width: 32px;height:32px;" src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-120px-plus.png?raw=true">
+                    <img style="white-space:nowrap;width: 32px;height:32px;" src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-32px-plus.png?raw=true">
                 </a>
                 <a style="white-space:nowrap;display:inline-block;border-right: 1px solid #f1f1f1;padding-right: 5px"
                     href="https://www.linkedin.com/in/austenstone/" target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-32.png">
+                        src="https://github.com/austenstone/email-signature/blob/main/linkedin_circle_color-32.png?raw=true">
                 </a>
             </div>
         </td>
