@@ -5,7 +5,7 @@ View a [preview](https://htmlpreview.github.io/?https://github.com/austenstone/e
 <table border="0" cellspacing="0" cellpading="0" style="white-space:nowrap;width:440px!important;">
     <tr>
         <td style="white-space:nowrap;vertical-align:middle;width:113px">
-            <img src="Fintechtocat.png"
+            <img src="https://github.com/austenstone/email-signature/blob/main/Fintechtocat.png?raw=true"
                 style="white-space:nowrap;border-right:1px solid #f1f1f1;padding-right: 12px;height: 100px">
         </td>
         <td
@@ -25,7 +25,7 @@ View a [preview](https://htmlpreview.github.io/?https://github.com/austenstone/e
             <div style="white-space:nowrap;margin-top: 8px">
                 <a style="white-space:nowrap;display:inline-block;" href="https://github.com/austenstone"
                     target="_blank">
-                    <img style="white-space:nowrap;width: 32px;height:32px;" src="GitHub-Mark-120px-plus.png">
+                    <img style="white-space:nowrap;width: 32px;height:32px;" src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-120px-plus.png?raw=true">
                 </a>
                 <a style="white-space:nowrap;display:inline-block;border-right: 1px solid #f1f1f1;padding-right: 5px"
                     href="https://www.linkedin.com/in/austenstone/" target="_blank">
