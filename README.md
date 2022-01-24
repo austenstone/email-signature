@@ -1,6 +1,6 @@
 # Email Signature Template
 
-View the template [email-signature.html](blob/main/email-signature.html).
+View a [preview](https://htmlpreview.github.io/?https://github.com/austenstone/email-signature/blob/main/email-signature.html).
 
 <table border="0" cellspacing="0" cellpading="0" style="white-space:nowrap;width:440px!important;">
     <tr>
