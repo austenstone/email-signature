@@ -36,3 +36,7 @@ View the template [email-signature.html](blob/main/email-signature.html).
         </td>
     </tr>
 </table>
+
+## References
+- [GitHub Public Logos](https://github.com/logos)
+- [Octodex](https://octodex.github.com/)
