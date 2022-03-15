@@ -1,3 +1,7 @@
+# Email Signature Template
+
+View a [preview](https://htmlpreview.github.io/?https://github.com/austenstone/email-signature/blob/main/email-signature.html).
+
 <table border="0" cellspacing="0" cellpading="0" style="white-space:nowrap;width:440px!important;">
     <tr>
         <td style="white-space:nowrap;vertical-align:middle;width:113px">
@@ -33,3 +37,7 @@
         </td>
     </tr>
 </table>
+
+## References
+- [GitHub Public Logos](https://github.com/logos)
+- [Octodex](https://octodex.github.com/)
